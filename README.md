@@ -1,25 +1,20 @@
-### Hi there, I'm Meow - aka Shradhanjali. 👋
+###  Shradhanjali. 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deymadhav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeymadhav&screen_name=deymadhav)
 
 ## I'm a Student, Developer, and Thinker !!
 
-- 🔭 I'm kinda pushing Repo, A new Website made !
+- 🔭 !
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar. 😊
+- ⚡ Fun fact: I love painting. 😊
 
 
 
 ### Connect with me:
 
 
-[<img align="left" alt="Madhavendra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Madhavendra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Madhavendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Madhavendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,7 +41,3 @@
 
 
 
-[twitter]: https://twitter.com/deymadhav
-[youtube]: https://www.youtube.com/user/madhavendradey69
-[instagram]: https://instagram.com/madhav_dey
-[linkedin]: https://www.linkedin.com/in/madhavendra-dey-77a96912b
